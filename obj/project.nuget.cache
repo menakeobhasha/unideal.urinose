@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WOre8VWkIabrPUb11DzvLXbngm3/y0DjeAVOxd2UeWXKVa3qlyfAe8/jZLNDalMYhhFYjcFRzNgsNUQdyv1GQA==",
+  "success": true,
+  "projectFilePath": "\\\\Mac\\Home\\Desktop\\unideal\\unideal.urinose.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\root\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
